@@ -13,8 +13,7 @@
 
 
 My suggestion is to start with user module then with project and at last task module
-
-## Please, after running project or task, delete any leftovers that may remain in the application so that it runs correctly. There might be conflicts otherwise
+Please, after running project or task, delete any leftovers that may remain in the application so that it runs correctly. There might be conflicts otherwise
 
 There is a results.txt that displays the list of feature/s that passed or failed after one run 
 also screenshot dir is for when there is a failed test case 
